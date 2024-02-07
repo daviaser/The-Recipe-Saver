@@ -1,5 +1,5 @@
 # The-Recipe-Saver
-This was a Group Project for the Computing course COMP1161 at UWI, Mona created by 
+This was a Group Project for the Computing course COMP1161 created by 
 Lael Brown, Davia Howard, Gabrielle James and Alexia Archer
 
 Description
